@@ -1,0 +1,14 @@
+1. Install Git - https://git-scm.com/
+2. Create New Empty Folder
+3. In the created folder right click and Git Bash
+4. git init 
+5. git config --global user.name "Sam Smith"
+6. git config --global user.email sam@example.com
+7. git remote add origin https://github.com/devprovers/QA-Teamwork-Provers
+8. git pull origin master
+9. You should be now connected to the repo and all files and folders available for local edit
+10. After a change to a file or creating a new file
+11. git status
+12. git add *
+13. git commit -m "message text"
+14. git push origin master
